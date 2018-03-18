@@ -1917,3 +1917,66 @@ body {
   display: block;
   text-align: center;
 }
+.cid-qMF3PCG48p {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-qMF3PCG48p .media-wrap {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-qMF3PCG48p .media-wrap .mbr-iconfont-logo {
+  font-size: 7rem;
+  color: #f36;
+}
+.cid-qMF3PCG48p .media-wrap img {
+  height: 6rem;
+}
+.cid-qMF3PCG48p .mbr-text {
+  color: #767676;
+}
+@media (max-width: 767px) {
+  .cid-qMF3PCG48p .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-qMF3PCG48p .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #000;
+  opacity: .05;
+}
+.cid-qMF3PCG48p .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-qMF3PCG48p .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #232323;
+}
+.cid-qMF3PCG48p .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-qMF3PCG48p .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-qMF3PCG48p .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-qMF3PCG48p .footer-lower .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
