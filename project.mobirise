@@ -887,18 +887,6 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Antihristov amandman - 6<br>",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-0-13-59-42-517751.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/MYJKGH1p3Q4",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery03.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery03.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Čudo na grebenu spasa -&nbsp;Dezmond T. Dos<br>",
                 "active": true
               }
             ]
