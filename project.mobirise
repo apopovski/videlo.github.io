@@ -39,10 +39,13 @@
     "versionPublish": "4.6.6",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": "true",
+    "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
-    "siteUrl": "undefined"
+    "siteUrl": "",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "sitemapSwitcherAuto": "on"
   },
   "pages": {
     "index.html": {
