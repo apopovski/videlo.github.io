@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 104 104" role="img" aria-label="Proročanstvo">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e40af"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#1e40af"/>
+    </linearGradient>
+  </defs>
+  <rect width="104" height="104" rx="28" fill="url(#g1)"/>
+  <rect x="6" y="6" width="92" height="92" rx="22" fill="rgba(255,255,255,.06)" stroke="rgba(255,255,255,.18)"/>
+  <circle cx="52" cy="52" r="18" fill="rgba(255,255,255,.14)" stroke="#fff" stroke-opacity=".4" stroke-width="3"/><path d="M52 28 56.7 42.3 72 42.4 59.6 51.3 64.2 66 52 57.2 39.8 66 44.4 51.3 32 42.4 47.3 42.3Z" fill="#fef3c7"/><path d="M24 24h10M74 24h6M18 42h8M80 48h6M24 72h10" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+</svg>
