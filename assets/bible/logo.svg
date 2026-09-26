@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 104 104" role="img" aria-label="Knjiga života">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="104" height="104" rx="28" fill="url(#g1)"/>
+  <rect x="6" y="6" width="92" height="92" rx="22" fill="rgba(255,255,255,.06)" stroke="rgba(255,255,255,.18)"/>
+  <path d="M36 22c-7 0-11 2.3-14 4.8V68c3-2.4 7.1-4.8 14-4.8 6.7 0 10.8 2.2 14 4.6V26.8C47.3 24.4 43.1 22 36 22Z" fill="url(#g1)"/><path d="M76 22c-7.1 0-11.3 2.4-14 4.8v41c3.2-2.4 7.3-4.6 14-4.6 6.9 0 11 2.4 14 4.8V26.8C87 24.3 83 22 76 22Z" fill="url(#g2)"/><path d="M57 18v53" stroke="#102a43" stroke-width="5" stroke-linecap="round"/><path d="M26 32c6-3.2 12.3-4.7 19.4-4.7" stroke="#fff" stroke-opacity=".7" stroke-width="3" stroke-linecap="round"/><path d="M67.5 27.3c7.2 0 13.5 1.6 19.5 4.7" stroke="#fff" stroke-opacity=".7" stroke-width="3" stroke-linecap="round"/><path d="M57 11 61 18 69 19.2 63 24.8 64.6 33 57 28.9 49.4 33 51 24.8 45 19.2 53 18Z" fill="#f59e0b"/>
+</svg>

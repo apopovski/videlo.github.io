@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 104 104" role="img" aria-label="Molitva">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1d4ed8"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+  </defs>
+  <rect width="104" height="104" rx="28" fill="url(#g1)"/>
+  <rect x="6" y="6" width="92" height="92" rx="22" fill="rgba(255,255,255,.06)" stroke="rgba(255,255,255,.18)"/>
+  <path d="M35 68c-7-7.8-11-16.3-11-25 0-8.6 4.8-16 12.5-19.9 1.8 10.8 7.5 19.7 15.9 27-5.5 6-10.3 11.9-17.4 17.9Z" fill="#fff" fill-opacity=".86"/><path d="M69 68c7-7.8 11-16.3 11-25 0-8.6-4.8-16-12.5-19.9-1.8 10.8-7.5 19.7-15.9 27 5.5 6 10.3 11.9 17.4 17.9Z" fill="#fff" fill-opacity=".7"/><path d="M52 14v16M44 22h16" stroke="#fef3c7" stroke-width="6" stroke-linecap="round"/>
+</svg>

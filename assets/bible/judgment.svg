@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 104 104" role="img" aria-label="Sud i milost">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#dc2626"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#dc2626"/>
+    </linearGradient>
+  </defs>
+  <rect width="104" height="104" rx="28" fill="url(#g1)"/>
+  <rect x="6" y="6" width="92" height="92" rx="22" fill="rgba(255,255,255,.06)" stroke="rgba(255,255,255,.18)"/>
+  <path d="M52 18v18" stroke="#fff" stroke-width="5" stroke-linecap="round"/><path d="M33 36h38" stroke="#fff" stroke-width="5" stroke-linecap="round"/><path d="M25 36c0 14 12 25 27 25s27-11 27-25" stroke="rgba(255,255,255,.28)" stroke-width="3" fill="none"/><path d="M32 44 22 60h20Z" fill="#fee2e2"/><path d="M72 44 62 60h20Z" fill="#fef3c7"/><path d="M44 72h16" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+</svg>
